@@ -8,7 +8,7 @@ Tested on Ubuntu (32 and 64 bit), Raspberry Pi and MacOS.
 ```bash
 sudo apt-get install git wget curl libssl-dev libncurses-dev flex bison gperf python python-pip python-setuptools python-serial python-click python-cryptography python-future python-pyparsing python-pyelftools cmake ninja-build ccache
 sudo pip install --upgrade pip
-git clone https://github.com/tv4you2016/esp32-arduino-lib-builder
+git clone https://github.com/Loucotolo/esp32-arduino-lib-builder
 cd esp32-arduino-lib-builder
 ./build.sh
 ```
